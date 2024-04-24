@@ -1,3 +1,4 @@
+#![forbid(clippy::unwrap_used)]
 use std::io::{stdin, stdout, Write};
 
 fn main() {
